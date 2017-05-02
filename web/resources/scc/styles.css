@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+table {
+    background-color: gray;
+}
+td {
+    background-color: lightgray;
+}
+tr {
+    background-color: lightgray;
+
+}
+th {
+    background-color: whitesmoke;
+}
